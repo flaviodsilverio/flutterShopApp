@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "e85f4d5645fdc6c8193f215360f46c85"
+build_time: [1625240546, 964410000]
+inputs:
+  "/Users/flavio.silverio/Desktop/flutter/shop_app/shop_app/ios/Runner/AppDelegate.swift": [1593612656, 0]
